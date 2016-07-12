@@ -4,7 +4,7 @@ echo "hello";
 }
 else if($_GET['pr']=="hi")
 {
-echo "hi";
+echo "hi,jack";
 }
 else
 {
